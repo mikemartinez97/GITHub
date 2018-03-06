@@ -1,1 +1,2 @@
-Solução do Exercício 2.
+Solução do Exercício DOIS.
+Corrigidos os erros de compilacão.
